@@ -1,0 +1,15 @@
+/* ============================================================
+   App-level Styles
+   ============================================================ */
+
+/* --- Section Divider (wave) --- */
+.section-divider {
+  color: #fafbfc;
+  background: #f0f4ff;
+  line-height: 0;
+}
+
+.section-divider svg {
+  width: 100%;
+  height: 60px;
+}
