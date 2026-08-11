@@ -2,6 +2,7 @@
   "name": "personal-site",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jiafei-queenbot.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
