@@ -21,6 +21,7 @@ export default function Navbar() {
         <ul className="nav-links">
           <li><a href="#home">首页</a></li>
           <li><a href="#projects">项目</a></li>
+          <li><a href="#gallery">相册</a></li>
           <li><a href="#contact">联系方式</a></li>
           <li>
             <a

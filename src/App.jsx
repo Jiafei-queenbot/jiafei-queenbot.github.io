@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Projects from "./components/Projects";
+import Gallery from "./components/Gallery";
 import Heatmap from "./components/Heatmap";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -18,6 +19,7 @@ function App() {
           </svg>
         </div>
         <Projects />
+        <Gallery />
         <Heatmap />
         <Contact />
       </main>
